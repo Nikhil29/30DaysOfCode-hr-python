@@ -1,1 +1,1 @@
-# 30DaysOfCode-hr-python
+### 30 Days of code challenge in Python
